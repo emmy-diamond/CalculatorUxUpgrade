@@ -20,9 +20,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         final EditText editText = findViewById(R.id.editText);
-        final EditText editText2 = findViewById(R.id.editText2);
+        //final EditText editText2 = findViewById(R.id.editText2);
         final TextView textViewMiles = findViewById(R.id.textViewMiles);
-        final TextView textViewKilometers = findViewById(R.id.textViewKilometers);
+        //final TextView textViewKilometers = findViewById(R.id.textViewKilometers);
 
 
 
